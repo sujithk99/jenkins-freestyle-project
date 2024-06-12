@@ -1,0 +1,1 @@
+this job trigger cicd pipeline in jenkins
